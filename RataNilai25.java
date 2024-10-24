@@ -19,6 +19,5 @@ import java.util.Scanner;
     System.out.println("rata rata nilai mahasiswa ke " + i + " adalah " + rataNilai);
     i++;
     }
-    sc.close();
     }
 }
